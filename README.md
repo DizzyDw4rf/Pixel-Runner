@@ -1,7 +1,6 @@
 # **Pixel Runner**
 
 You are playing with Nagato who wants to hire Deidra to work for Akatsuke, but it looks like a hard job to do cause Deidra is
-
 attacking you with his clay art, beware of getting exploded or "Katsed" as Deidra would say. 
 
 
